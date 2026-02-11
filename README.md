@@ -3,7 +3,7 @@ Este repositório contém o código-fonte desenvolvido para o estudo "Evaluating
 Por questões de privacidade institucional, os dados originais não podem ser compartilhados. Para permitir que o código seja executado, foram incluídos arquivos representativos:
 
 - Data/ToyDataset.xlsx: base com três meses de dados (abril a junho de 2024), gerados na mesma unidade de grandeza dos dados reais, apenas para demonstração.
-- mealdemand.ipynb: notebook com trechos do código, que pode ser executado usando o dataset fornecido.
+- MealDemand.ipynb: notebook com trechos do código, que pode ser executado usando o dataset fornecido.
 
 Agradecemos à UFRJ – Campus Macaé e ao restaurante universitário pelo suporte.
 Para dúvidas ou contato sobre o repositório, envie um e-mail para mariasantosunv@gmail.com
